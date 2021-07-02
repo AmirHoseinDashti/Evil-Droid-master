@@ -3,8 +3,6 @@
 ## Screenshot:
 ![pic1](https://i.imgur.com/LczO636.png)
 
-![pic2](https://i.imgur.com/mhXxb5Q.png)
-
 <br /><br />
 
 ## Dependencies :
@@ -24,7 +22,7 @@
          chmod +x evil-droid
 
 
-    4?- Run Evil-Droid Framework :
+    3?- Run Evil-Droid Framework :
        ./evil-droid
          see options bellow	   
 
